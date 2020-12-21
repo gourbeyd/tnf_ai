@@ -1,0 +1,12 @@
+
+table matchs
+
+id_match | date | HomeTeam | awayteam | ftr (-1 or 1) | oddhome | odraw| oaway| odora|fthg | ftag | pshg | psag  
+
+table equipes
+
+nom_equipe | logo
+
+table prono ? non 
+
+

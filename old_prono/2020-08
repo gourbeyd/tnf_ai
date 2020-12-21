@@ -1,0 +1,328 @@
+overall: 60/97
+u: 10 -> +4.7
+lim_basse 1.30, lim_haute : 3
+
+2108:
+LIGUE 1:
+Bordeaux vs Nantes
+away team or draw @1.53 [-1000] o
+1/1
+
+2208
+LIGUE 1:
+Dijon vs Angers
+away team or draw @ 1.45 [-1000] o
+Lille vs Rennes
+away team or draw @ 1.69 [-996] o
+2/2
+
+2308
+LIGUE 1:
+Monaco vs Reims
+away team or draw @ 1.9 [-1000] o
+Lorient vs Strasbourg
+away team or draw @ 1.51 [-1000] x
+Nîmes vs Brest
+away team or draw @ 1.69 [-1000] x
+Nice vs Lens
+away team or draw @ 1.87 [-1000] x
+1/4
+
+2808
+LIGUE 1:
+Lyon vs Dijon
+away team or draw @4.22 cote trop haute
+0/0
+
+2908
+LIGUE 1:
+Rennes vs Montpellier
+away team or draw @1.99 x
+Strasbourg vs Nice
+away team or draw @1.74 o
+1/2
+
+3008
+LIGUE 1:
+Reims vs Lille
+away team or draw @1.41 o
+Saint-Etienne vs Lorient
+away team or draw @1.68 x
+Nantes vs Nîmes 
+away team or draw @1.97 x
+Metz vs Monaco
+away team or draw @1.28 o
+Angers vs Bordeaux
+away team or draw @1.65 o
+Brest vs Marseille
+away team or draw @1.25 o cote trop basse
+3/5
+
+1009
+LIGUE 1:
+Lens vs PSG
+away team or draw @ 1.22 [-100] : cote trop basse
+0/0
+
+1109
+LIGUE 1:
+Bordeaux vs Lyon
+away team or draw @ 1.27 [-100] : cote trop basse
+0/0
+
+1209
+LIGUE 1:
+Montpellier vs Nice
+away team or draw @ 1.69 [-100] x
+Saint-Etienne vs Strasbourg
+away team or draw @ 1.7 [-100] x
+LALIGA:
+Eibar vs Celta Vigo
+away team or draw @ 1.55 [-100] o 
+Grenade vs Ath. Bilbao
+away team or draw @ 1.44 [-100] x
+Cadiz vs Osasuna
+away team or draw @ 1.44 [-98] o
+PREMIER LEAGUE
+Crystal Palace vs Southampton
+away team or draw @1.35 [-100] x
+2/6
+
+1309
+PREMIER LEAGUE:
+West Brom vs Leicester
+away team or draw @1.35 o
+Tottenham vs Everton 
+away team or draw @1.79 o
+LALIGA:
+Alaves vs Betis
+away team or draw @1.36 o
+Valladolid vs Real Sociedad 
+away team or draw @1.43 o
+Villareal vs Huesca 
+away team or draw @2.57 o
+Valence vs Levante 
+away team or draw @1.54 x
+LIGUE 1:
+Lille vs Metz
+away team or draw @2.49 x
+Angers vs Reims
+away team or draw @1.71 x
+Dijon vs Brest
+away team or draw @1.43 o
+Lorient vs Lens
+away team or draw @1.65 o
+Nimes vs Rennes
+away team or draw @1.34 o
+Monaco vs Nantes
+away team or draw @1.92 x
+Paris SG vs Marseille
+away team or draw @2.81 o
+9/13
+
+1409
+PREMIER LEAGUE:
+Sheffield Utd vs Wolves
+away team or draw @1.36 o
+1/1
+
+1709
+LIGUE 1:
+Marseille vs Saint-Etienne
+away team or draw @2.08 o
+1/1
+
+1909
+BUNDESLIGA:
+Francfort vs Bielefeld 
+away team or draw @2.04 o
+Cologne vs Hoffenheim
+away team or draw @1.47 o
+Stuttgart vs Freiburg 
+away team or draw @1.7 o
+Union Berlin vs Augsburg 
+away team or draw @1.6 o
+Werder Breme vs Hertha Berlin
+away team or draw @1.54 o
+Dortmund vs Monchengladbach
+away team or draw @2.3 x
+PREMIER LEAGUE 
+Everton vs West Brom
+away team or draw @2.32 x
+Leeds vs Fulham
+away team or draw @2.21 x
+Arsenal vs West Ham
+away team or draw @2.68 x
+Villareal vs Eibar
+away team or draw @2.28 x
+Getafe vs Osasuna
+away team or draw @1.8 x
+Celta Vigo vs Valence 
+awya team or draw @1.78 x
+LIGUE 1:
+Lens vs Bordeaux
+away team or draw @1.59 x
+Rennes vs Monaco
+away team or draw @1.68 x
+SERIE A:
+Fiorentina vs Torino
+away team or draw @2.02 x
+5/15
+
+2009
+PREMIER LEAGUE:
+Southampton vs Tottenham
+away team or draw @ 1.36 [-100] o
+Newcastle vs Brighton
+away team or draw @ 1.51 [-100] o
+Chelsea vs Liverpool
+away team or draw @ 1.37 [-100] o
+Leicester vs Burnley
+away team or draw @ 2.42 [-100] x
+LIGUE 1:
+Brest vs Lorient
+away team or draw @ 1.59 [-96] x
+Metz vs Reims
+away team or draw @ 1.53 [-100] x
+Montpellier vs Angers
+away team or draw @ 1.84 [-100] x
+Strasbourg vs Dijon
+away team or draw @ 2.4 [-100] x
+Nantes vs Saint-Etienne
+away team or draw @ 1.64 [-100] o
+Marseille vs Lille
+away team or draw @ 1.6 [-100] o
+BUNDESLIGA:
+Wolfsburg vs Bayer Leverkusen
+away team or draw @ 1.44 [-100] o
+LALIGA:
+Huesca vs Cadiz
+away team or draw @ 1.74 [-100] o
+SERIE A:
+Genoa vs Crotone
+away team or draw @1.65 [-100] x
+Sassuola vs Cagliari
+away team or draw @2.05 [-100] o
+8/14
+
+2509
+BUNDESLIGA:
+Hertha Berlin vs Eintracht Francfort
+away team or draw @ 1.61 [-100] o
+LIGUE 1:
+Lille vs Nantes
+away team or draw @ 2.31 [-90] x
+1/2 (not counted)
+
+2609
+PREMIER LEAGUE:
+Burnley vs Southampton
+away team or draw @ 1.37 [-100] o
+LIGUE 1:
+Saint-Etienne vs Rennes
+away team or draw @ 1.4 [-100] o
+Marseille vs Metz
+away team or draw @ 2.36 [-100] o
+BUNDESLIGA:
+Arminia Bielefeld vs FC Cologne
+away team or draw @ 1.54 [-100] x
+Bayer Leverkusen vs RB Leipzig
+away team or draw @ 1.39 [-100] o
+B. Monchengladbach vs Union Berlin
+away team or draw @ 2.9 [-98] o
+Mayence vs Stuttgart
+away team or draw @ 1.58 [-98] o
+Schalke 04 vs Werder Brême
+away team or draw @ 1.52 [-100] o
+SERIE A:
+Sampdoria vs Benevento
+away team or draw @ 2.0 [-100] o
+Inter vs Fiorentina
+away team or draw @ 2.59 [-96] x
+LALIGA:
+Alaves vs Getafe
+away team or draw @ 1.31 [-100] o
+Valence vs Huesca
+away team or draw @ 1.74 [-100] o
+10/12
+
+2709
+PREMIER LEAGUE:
+Sheffield Utd vs Leeds
+away team or draw @ 1.46 [-100] o
+Tottenham vs Newcastle
+away team or draw @ 2.87 [-100] o
+LIGUE 1:
+Bordeaux vs Nice
+away team or draw @ 1.74 [-100] o
+Angers vs Brest
+away team or draw @ 1.72 [-100] x
+Monaco vs Strasbourg
+away team or draw @ 2.06 [-100] x
+Nîmes vs Lens
+away team or draw @ 1.43 [-100] o
+BUNDESLIGA:
+Fribourg vs Wolfsburg
+away team or draw @ 1.36 [-100] o
+SERIE A:
+Hellas Verone vs Udinese
+away team or draw @1.45 [-100] x
+AS Roma vs Juventus
+away team or draw @1.30 [-100] o
+LA LIGA:
+Osasuna vs Levante
+away team or draw @ 1.69 [-100] o
+Eibar vs Ath. Bilbao
+away team or draw @ 1.38 [-100] o
+Atl. Madrid vs Grenade
+away team or draw @ 2.74 [-100] x
+Valladolid vs Celta Vigo
+away team or draw @ 1.42 [-100] o
+Barcelone vs Villarreal
+away team or draw @ 2.6 [-100] x
+9/14
+
+2809
+PREMIER LEAGUE:
+Fulham vs Aston Villa
+away team or draw @ 1.43 [-100] o
+Liverpool vs Arsenal
+away team or draw @ 2.57 [-100] x
+1/2
+
+2909
+LALIGA:
+Real Sociedad vs Valence
+away team or draw @2.55 [-97] o
+Getafe vs Betis
+away team or draw @1.55 [-100] x
+1/2
+
+3009
+SERIE A:
+Udinese vs Spezia
+away team or draw @2.07 [-96] o
+Lazio vs Atalanta 
+away team or draw @1.5 [-100] o
+LALIGA:
+Villareal vs Alaves
+away team or draw @2.49 [-100] x
+Eibar vs Elche
+away team or draw @2.14 [-100] o
+3/4
+
+0110
+Seville vs Levante
+away team or draw @2.9 [-94] x
+Ath Bilbao vs Cadiz
+away team or draw @2.2 [-98] o
+1/2
+
+0210
+SERIE A:
+Fiorentina vs Sampdoria
+away team or draw @ 2.42 [-100] o
+BUNDESLIGA:
+Union Berlin vs Mayence
+away team or draw @ 1.71 [-100] x
+1/2
